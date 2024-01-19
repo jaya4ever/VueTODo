@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Learn vue",
+      "completed": false,
+      "date": "Mon Apr 11 2022",
+      "dateCompleted": "Thu Jan 18 2024",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "text": "Learn Redux",
+      "completed": false,
+      "date": "Mon Apr 11 2022",
+      "dateCompleted": false
+    },
+    {
+      "id": "3",
+      "text": "Learn React Native",
+      "completed": false,
+      "date": "Mon Apr 11 2022",
+      "dateCompleted": false
+    }
+  ]
+}
