@@ -13,7 +13,7 @@ export default {
       todos: [],
       editMode: false,
       editTodo: null,
-      endpoint: "http://localhost:4000/todos/",
+      endpoint: "",
     };
   },
   computed: {
